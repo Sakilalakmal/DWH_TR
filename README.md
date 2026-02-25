@@ -2,6 +2,9 @@
 
 A SQL Server data warehouse following the **Bronze → Silver → Gold** medallion pattern.
 
+## Data Flow
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/a1a7fe7e-40fe-40be-a8df-dfb8e12d1b50" />
+
 ## Folder Structure
 
 ```
